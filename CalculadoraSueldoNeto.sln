@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraSueldoNeto", "CalculadoraSueldoNeto.csproj", "{ED20CDC8-1B4D-4D20-B77B-185F18FCF671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED20CDC8-1B4D-4D20-B77B-185F18FCF671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED20CDC8-1B4D-4D20-B77B-185F18FCF671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED20CDC8-1B4D-4D20-B77B-185F18FCF671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED20CDC8-1B4D-4D20-B77B-185F18FCF671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98DC7C95-F589-4A05-96EE-900D997E7F25}
+	EndGlobalSection
+EndGlobal
